@@ -1,8 +1,8 @@
-USE PortofolioProject
+/* In this section i used Microsoft SQL Server as a RDMBS */
 
 ------------------------------------ DATA EXPLORATION ------------------------------------
 
--- Before we doing query on the data, its really important to check the data type, because if the data type is not relevant/support with the function/statement you’ll get some error.
+-- Before we doing query on the data, its really important to check the data type, because if the data type is not relevant/support with the function/statement youâ€™ll get some error.
 -- Execute this one by one.
 USE PortofolioProject
 SP_HELP CovidDeaths
